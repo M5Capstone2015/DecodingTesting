@@ -51,7 +51,7 @@ def resetflags():
     flag22 = 0
 
 
-
+#test
 print("test")
 with open('hijack_dump.csv', 'rt') as csvfile:
     spamreader = csv.reader(csvfile, delimiter=' ', quotechar='|')
